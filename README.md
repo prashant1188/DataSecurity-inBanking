@@ -79,4 +79,4 @@ This project demonstrates how integrating Blockchain and Machine Learning can en
 I would like to express my sincere gratitude to my professors and mentors for their invaluable guidance and support throughout the development of this project. Special thanks to my family and friends for their constant encouragement.
 
 ## Authors
-Prashant Shukla - LinkedIn
+Prashant Shukla - [LinkedIn](https://www.linkedin.com/in/prashant1188/)
